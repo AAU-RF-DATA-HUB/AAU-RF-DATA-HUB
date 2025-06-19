@@ -2,6 +2,7 @@
 
 <!--
 **AAU-RF-DATA-HUB/AAU-RF-DATA-HUB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![20220621_063520](https://github.com/user-attachments/assets/bd1844ea-e28e-439c-8112-bede6eaddde2)
 
 Here are some ideas to get you started:
 
